@@ -1,0 +1,101 @@
+category_id,category_name,department,is_seasonal
+1899-12-31,Smartphones 01,Electronics,TRUE
+1900-01-01,Laptops 02,Home,FALSE
+1900-01-02,TVs 03,Fashion,FALSE
+1900-01-03,Headphones 04,Beauty,FALSE
+1900-01-04,Wearables 05,Sports,FALSE
+1900-01-05,Tablets 06,Kids,FALSE
+1900-01-06,Cameras 07,Grocery,FALSE
+1900-01-07,Gaming 08,Auto,FALSE
+1900-01-08,Furniture 09,Electronics,FALSE
+1900-01-09,Kitchen 10,Home,TRUE
+1900-01-10,Bedding 11,Fashion,FALSE
+1900-01-11,Decor 12,Beauty,FALSE
+1900-01-12,Storage 13,Sports,FALSE
+1900-01-13,Lighting 14,Kids,FALSE
+1900-01-14,Appliances 15,Grocery,FALSE
+1900-01-15,Garden 16,Auto,TRUE
+1900-01-16,Women Fashion 17,Electronics,FALSE
+1900-01-17,Men Fashion 18,Home,FALSE
+1900-01-18,Shoes 19,Fashion,TRUE
+1900-01-19,Accessories 20,Beauty,FALSE
+1900-01-20,Bags 21,Sports,FALSE
+1900-01-21,Jewelry 22,Kids,FALSE
+1900-01-22,Kids Fashion 23,Grocery,FALSE
+1900-01-23,Lingerie 24,Auto,FALSE
+1900-01-24,Skincare 25,Electronics,FALSE
+1900-01-25,Makeup 26,Home,FALSE
+1900-01-26,Haircare 27,Fashion,FALSE
+1900-01-27,Fragrance 28,Beauty,TRUE
+1900-01-28,Personal Care 29,Sports,FALSE
+1900-01-29,Health 30,Kids,FALSE
+1900-01-30,Supplements 31,Grocery,FALSE
+1900-01-31,Beauty Tools 32,Auto,FALSE
+1900-02-01,Fitness 33,Electronics,FALSE
+1900-02-02,Cycling 34,Home,FALSE
+1900-02-03,Outdoor 35,Fashion,FALSE
+1900-02-04,Team Sports 36,Beauty,FALSE
+1900-02-05,Swimming 37,Sports,TRUE
+1900-02-06,Camping 38,Kids,FALSE
+1900-02-07,Running 39,Grocery,FALSE
+1900-02-08,Winter Gear 40,Auto,TRUE
+1900-02-09,Toys 41,Electronics,FALSE
+1900-02-10,Baby Care 42,Home,FALSE
+1900-02-11,School Supplies 43,Fashion,TRUE
+1900-02-12,Books 44,Beauty,FALSE
+1900-02-13,Games 45,Sports,FALSE
+1900-02-14,Strollers 46,Kids,TRUE
+1900-02-15,Feeding 47,Grocery,FALSE
+1900-02-16,Nursery 48,Auto,FALSE
+1900-02-17,Snacks 49,Electronics,FALSE
+1900-02-18,Beverages 50,Home,FALSE
+1900-02-19,Dairy 51,Fashion,FALSE
+1900-02-20,Bakery 52,Beauty,FALSE
+1900-02-21,Frozen 53,Sports,FALSE
+1900-02-22,Fresh 54,Kids,FALSE
+1900-02-23,Household 55,Grocery,TRUE
+1900-02-24,Pet Care 56,Auto,FALSE
+1900-02-25,Car Electronics 57,Electronics,FALSE
+1900-02-26,Tools 58,Home,FALSE
+1900-02-27,Accessories Auto 59,Fashion,FALSE
+1900-02-28,Motor Oil 60,Beauty,FALSE
+1900-03-01,Cleaning Auto 61,Sports,FALSE
+1900-03-02,Tires 62,Kids,FALSE
+1900-03-03,Travel 63,Grocery,TRUE
+1900-03-04,DIY 64,Auto,TRUE
+1900-03-05,Office 65,Electronics,FALSE
+1900-03-06,Stationery 66,Home,FALSE
+1900-03-07,Industrial 67,Fashion,FALSE
+1900-03-08,Pharmacy 68,Beauty,FALSE
+1900-03-09,Medical Devices 69,Sports,FALSE
+1900-03-10,Back to School 70,Kids,TRUE
+1900-03-11,Holiday Decor 71,Grocery,TRUE
+1900-03-12,Crafts 72,Auto,FALSE
+1900-03-13,Smartphones 73,Electronics,TRUE
+1900-03-14,Laptops 74,Home,FALSE
+1900-03-15,TVs 75,Fashion,FALSE
+1900-03-16,Headphones 76,Beauty,FALSE
+1900-03-17,Wearables 77,Sports,FALSE
+1900-03-18,Tablets 78,Kids,FALSE
+1900-03-19,Cameras 79,Grocery,FALSE
+1900-03-20,Gaming 80,Auto,FALSE
+1900-03-21,Furniture 81,Electronics,FALSE
+1900-03-22,Kitchen 82,Home,TRUE
+1900-03-23,Bedding 83,Fashion,FALSE
+1900-03-24,Decor 84,Beauty,FALSE
+1900-03-25,Storage 85,Sports,FALSE
+1900-03-26,Lighting 86,Kids,FALSE
+1900-03-27,Appliances 87,Grocery,FALSE
+1900-03-28,Garden 88,Auto,TRUE
+1900-03-29,Women Fashion 89,Electronics,FALSE
+1900-03-30,Men Fashion 90,Home,FALSE
+1900-03-31,Shoes 91,Fashion,TRUE
+1900-04-01,Accessories 92,Beauty,FALSE
+1900-04-02,Bags 93,Sports,FALSE
+1900-04-03,Jewelry 94,Kids,FALSE
+1900-04-04,Kids Fashion 95,Grocery,FALSE
+1900-04-05,Lingerie 96,Auto,FALSE
+1900-04-06,Skincare 97,Electronics,FALSE
+1900-04-07,Makeup 98,Home,FALSE
+1900-04-08,Haircare 99,Fashion,FALSE
+1900-04-09,Fragrance 100,Beauty,TRUE
